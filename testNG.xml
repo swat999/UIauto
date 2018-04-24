@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="regression">
+<listeners>
+<listener class-name="com.test.auto.uiAuto.listeners.Listener"></listener>
+</listeners>
+<test name="cycle1">
+<classes>
+<class name="com.test.auto.uiAuto.TC_001_LoginToApplication"></class>
+</classes>
+</test>
+</suite>

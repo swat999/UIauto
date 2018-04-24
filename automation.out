@@ -1,0 +1,13 @@
+2018-04-23 19:31:18 INFO  TestBase:75 - To initiate browser
+2018-04-23 19:31:31 INFO  TestBase:75 - Browser initiated
+2018-04-23 19:31:31 INFO  TestBase:75 - to open url : http://demo.nopcommerce.com/
+2018-04-23 19:31:33 INFO  TestBase:75 - url opened
+2018-04-23 19:31:33 INFO  TestBase:75 - To maximize window
+2018-04-23 19:31:33 INFO  TestBase:75 - window maximized
+2018-04-23 20:07:57 INFO  TestBase:75 - To initiate browser
+2018-04-23 20:08:08 INFO  TestBase:75 - Browser initiated
+2018-04-23 20:08:08 INFO  TestBase:75 - to open url : http://demo.nopcommerce.com/
+2018-04-23 20:08:10 INFO  TestBase:75 - url opened
+2018-04-23 20:08:10 INFO  TestBase:75 - To maximize window
+2018-04-23 20:08:10 INFO  TestBase:75 - window maximized
+2018-04-23 20:08:10 INFO  TestBase:75 - Test eneded in listner : cycle1
